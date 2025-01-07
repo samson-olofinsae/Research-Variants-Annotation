@@ -14,7 +14,6 @@ do
 
 echo ${file} >> vcf_files_list.txt
 
-
 done
 
 #step2
