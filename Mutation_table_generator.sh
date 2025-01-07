@@ -51,7 +51,6 @@ rm *_indels.vcf.gz
 rm *.indels.txt
 
 
-
 # SNP ANALYSIS
 
 
