@@ -77,7 +77,6 @@ rm snp_list.txt
 rm *_snp.vcf.gz
 rm *.snp.txt
 rm vcf_files_list.txt
-
 # concatenate indel_mutation_table.txt and snp_mutation_table.txt
 
 cat indel_mutation_table.txt snp_mutation_table.txt >> unified_variants.txt
