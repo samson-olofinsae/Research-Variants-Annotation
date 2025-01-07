@@ -17,7 +17,6 @@ echo ${file} >> vcf_files_list.txt
 
 done
 
-
 #step2
 
 cat vcf_files_list.txt | while read line;
