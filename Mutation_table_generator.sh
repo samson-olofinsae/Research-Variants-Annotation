@@ -53,7 +53,6 @@ rm *.indels.txt
 
 #step4
 
-
 for file in *snp.vcf.gz
 do
 
