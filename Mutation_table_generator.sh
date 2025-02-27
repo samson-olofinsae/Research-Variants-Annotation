@@ -51,7 +51,6 @@ rm *.indels.txt
 
 # SNP ANALYSIS
 
-
 #step4
 
 
