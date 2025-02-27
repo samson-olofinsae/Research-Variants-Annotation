@@ -49,7 +49,6 @@ rm indels_list.txt
 rm *_indels.vcf.gz
 rm *.indels.txt
 
-
 # SNP ANALYSIS
 
 
